@@ -17,15 +17,15 @@
 
 ## Usage
 
-1. Go to the .js file.
+1. Navigate to the .js file with the theme of your choosing.
 2. Copy the URL.
-3. Paste into Blink prompt. 
-4. Create new terminal (⌘ + T).
+3. Open the settings panel in Blink Shell using config.
+4. Go to Appearance > Add a new theme.
+5. Name your theme and paste the URL into the requested zone.
+6. Save and select the theme in the Appearance window.
+7. Start a new terminal (⌘ + T).
+8. Enjoy the theme :smile:.
 
-## 🙋 FAQ (optional)
-
-- Q: **_"Where can I find the doc?"_**
-  A: Run `:help theme`
 
 ## 💝 Thanks to
 
