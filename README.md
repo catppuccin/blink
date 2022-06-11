@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/rithikasilva/blink/stargazers"><img src="https://img.shields.io/github/stars/rithikasilva/blink?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship"></a>
-    <a href="https://github.com/rithikasilva/blink/issues"><img src="https://img.shields.io/github/issues/rithikasilva/blink?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
-    <a href="https://github.com/rithikasilva/blink/contributors"><img src="https://img.shields.io/github/contributors/rithikasilva/blink?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/blink/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/blink?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship"></a>
+    <a href="https://github.com/catppuccin/blink/issues"><img src="https://img.shields.io/github/issues/catppuccin/blink?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/blink/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/blink?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
 </p>
 
 <p align="center">
