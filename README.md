@@ -6,26 +6,24 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/catppuccin/blink/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/blink?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/blink/issues"><img src="https://img.shields.io/github/issues/catppuccin/blink?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/blink/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/blink?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/blink/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/blink?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/blink/issues"><img src="https://img.shields.io/github/issues/catppuccin/blink?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/blink/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/blink?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-  <img src="assets/catpuccin-blink.jpg"/>
+	<img src="./assets/preview.jpg"/>
 </p>
 
 ## Usage
 
-1. Navigate to the .js file with the theme of your choosing.
-2. Copy the URL.
+1. Navigate to the theme file of your choosing in [`themes/`](./themes/).
+2. Copy the URL of the file.
 3. Open the settings panel in Blink Shell using config.
-4. Go to Appearance > Add a new theme.
+4. Go to **Appearance** > **Add a new theme**.
 5. Name your theme and paste the URL into the requested zone.
 6. Save and select the theme in the Appearance window.
-7. Start a new terminal (⌘ + T).
-8. Enjoy the theme :smile:.
-
+7. Start a new terminal window (<kbd>⌘</kbd>+<kbd>T</kbd>).
 
 ## 💝 Thanks to
 
