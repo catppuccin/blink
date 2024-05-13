@@ -1,0 +1,14 @@
+---
+whiskers:
+  version: 2.1.0
+  matrix:
+    - flavor
+  filename: "themes/catppuccin-{{ flavor.identifier }}.js"
+---
+
+{%- set palette = flavor.colors -%}
+
+t.prefs_.set('color-palette-overrides', ["#{{ palette.surface2.hex }}", "#{{ palette.maroon.hex }}", "#{{ palette.green.hex }}", "#{{ palette.yellow.hex }}", "#{{ palette.sapphire.hex }}", "#{{ palette.pink.hex }}", "#{{ palette.sky.hex }}", "#{{ palette.rosewater.hex }}", "#{{ palette.mauve.hex }}", "#{{ palette.maroon.hex }}", "#{{ palette.green.hex }}", "#{{ palette.yellow.hex }}", "#{{ palette.sapphire.hex }}", "#{{ palette.pink.hex }}", "#{{ palette.sky.hex }}", "#{{ palette.text.hex }}"]);
+t.prefs_.set('foreground-color', "#{{ palette.text.hex }}");
+t.prefs_.set('background-color', "#{{ palette.base.hex }}");
+t.prefs_.set('cursor-color', "#{{ palette.flamingo.hex }}");
